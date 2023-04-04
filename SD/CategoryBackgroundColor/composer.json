@@ -1,0 +1,18 @@
+{
+    "name": "SixtySeven/category-background-color-attr",
+    "description": "Add colorpicker attribute in category edit page",
+    "require": {
+        "magento/category-background-color-attr": "100.*.*",
+        "magento/Magento_Backend": "100.*.*"
+    },
+    "type": "magento2-module",
+    "version": "1.0.1",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "SixtySeven\\CategoryBackgroundColor\\": ""
+        }
+    }
+}
