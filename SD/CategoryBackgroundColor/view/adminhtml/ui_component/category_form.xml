@@ -4,9 +4,9 @@
         <field name="background_colour" sortOrder="150">
             <argument name="data" xsi:type="array">
                 <item name="config" xsi:type="array">
-                    <item name="component" xsi:type="string">SixtySeven_CategoryBackgroundColor/js/form/element/color-select</item>
+                    <item name="component" xsi:type="string">SD_CategoryBackgroundColor/js/form/element/color-select</item>
                     <item name="template" xsi:type="string">ui/form/field</item>
-                    <item name="elementTmpl" xsi:type="string">SixtySeven_CategoryBackgroundColor/form/element/color-select</item>
+                    <item name="elementTmpl" xsi:type="string">SD_CategoryBackgroundColor/form/element/color-select</item>
                     <item name="label" xsi:type="string">Background Colour</item>
                     <item name="labelVisible" xsi:type="boolean">true</item>
                     <item name="visible" xsi:type="boolean">true</item>
