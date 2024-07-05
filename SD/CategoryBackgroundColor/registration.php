@@ -1,12 +1,12 @@
 <?php
 /**
  * @category  Category Background Color
- * @package   SixtySeven_CategoryBackgroundColor
- * @author    SixtySeven
+ * @package   SD_CategoryBackgroundColor
+ * @author    SD
  */
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'SixtySeven_CategoryBackgroundColor',
+    'SD_CategoryBackgroundColor',
     __DIR__
 );
