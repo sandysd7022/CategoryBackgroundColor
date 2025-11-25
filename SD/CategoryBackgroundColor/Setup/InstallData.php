@@ -4,7 +4,6 @@
  * @package   SixtySeven_CategoryBackgroundColor
  * @author    SixtySeven
  */
-
 namespace SixtySeven\CategoryBackgroundColor\Setup;
 
 use Magento\Framework\Setup\{
@@ -40,3 +39,4 @@ class InstallData implements InstallDataInterface
         ]);
     }
 }
+
